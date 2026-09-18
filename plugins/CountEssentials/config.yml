@@ -1,0 +1,80 @@
+# CountEssentials
+starting-balance: 0
+autosave-seconds: 120
+
+# Tampilkan saldo di bawah gamertag. Vanilla merender "<angka> <suffix>", contoh: 80 $
+money-below-name: true
+money-below-name-suffix: "$"
+
+tpa-expire-seconds: 120
+
+rtp:
+  radius: 5000
+  min-radius: 200
+  max-attempts: 40
+  # Overworld hanya mendarat di blok ini (nether = lantai solid aman, end = END_STONE)
+  overworld-ground:
+    - GRASS_BLOCK
+
+# Harga jual per item (0 / tidak terdaftar = tidak bisa dijual)
+sell-prices:
+  # ore & mineral
+  DIAMOND: 100
+  EMERALD: 60
+  GOLD_INGOT: 25
+  IRON_INGOT: 12
+  COPPER_INGOT: 4
+  LAPIS_LAZULI: 6
+  REDSTONE: 4
+  COAL: 3
+  QUARTZ: 8
+  NETHERITE_SCRAP: 300
+  ANCIENT_DEBRIS: 350
+  AMETHYST_SHARD: 10
+  # blok umum
+  OBSIDIAN: 25
+  END_STONE: 2
+  GLOWSTONE: 25
+  IRON_BLOCK: 108
+  GOLD_BLOCK: 225
+  DIAMOND_BLOCK: 900
+  EMERALD_BLOCK: 540
+  # mob drop
+  ENDER_PEARL: 20
+  BLAZE_ROD: 40
+  GHAST_TEAR: 90
+  SHULKER_SHELL: 90
+  TOTEM_OF_UNDYING: 320
+  DRAGON_BREATH: 250
+  GUNPOWDER: 6
+  BONE: 2
+  STRING: 3
+  SLIME_BALL: 6
+  LEATHER: 5
+  ROTTEN_FLESH: 1
+  SPIDER_EYE: 3
+  # farm
+  WHEAT: 2
+  CARROT: 2
+  POTATO: 2
+  BEETROOT: 2
+  MELON_SLICE: 1
+  PUMPKIN: 4
+  SUGAR_CANE: 2
+  NETHER_WART: 4
+  BAMBOO: 1
+  KELP: 1
+  COCOA_BEANS: 3
+  HONEYCOMB: 8
+  GOLDEN_APPLE: 60
+  # kayu
+  OAK_LOG: 3
+  BIRCH_LOG: 3
+  SPRUCE_LOG: 3
+  JUNGLE_LOG: 3
+  ACACIA_LOG: 3
+  DARK_OAK_LOG: 3
+  CHERRY_LOG: 3
+  MANGROVE_LOG: 3
+  CRIMSON_STEM: 3
+  WARPED_STEM: 3

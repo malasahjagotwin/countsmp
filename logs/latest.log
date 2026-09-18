@@ -1,0 +1,195 @@
+[02:23:48] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4.1+1-LTS; Eclipse Adoptium Temurin-25.0.4.1+1) on Windows 11 10.0 (amd64)
+[02:23:48] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-124-ver/26.2@22ca6c7 (2026-09-15T17:48:49Z) for Minecraft 26.2
+[02:23:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:23:48] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[02:23:48] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - CountEssentials (1.0), DonutShop (1.8), Geyser-Spigot (2.11.3-SNAPSHOT), Vault (1.7.3-b131), floodgate (2.2.5-SNAPSHOT (b140-8780fa4))
+[02:23:53] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:23:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:23:54] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 541.3ms
+[02:23:56] [ServerMain/INFO]: Loaded 1585 recipes
+[02:23:56] [ServerMain/INFO]: Loaded 1688 advancements
+[02:23:56] [Server thread/INFO]: Starting minecraft server version 26.2
+[02:23:56] [Server thread/INFO]: Loading properties
+[02:23:56] [Server thread/INFO]: This server is running Paper version 26.2-124-ver/26.2@22ca6c7 (2026-09-15T17:48:49Z) (Implementing API version 26.2.build.124-stable)
+[02:23:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:23:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:23:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:23:56] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[02:23:57] [Server thread/INFO]: Default game type: SURVIVAL
+[02:23:57] [Server thread/INFO]: Generating keypair
+[02:23:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:23:57] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[02:23:57] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[02:23:57] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[02:23:57] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[02:23:58] [Server thread/INFO]: [floodgate] Took 661ms to boot Floodgate
+[02:23:58] [Server thread/INFO]: [CountEssentials] Loading server plugin CountEssentials v1.0
+[02:23:58] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.3-SNAPSHOT
+[02:23:58] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[02:23:58] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[02:23:58] [Server thread/INFO]: [DonutShop] Loading server plugin DonutShop v1.8
+[02:23:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:23:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:23:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:23:58] [Server thread/INFO]: Preparing level "world"
+[02:23:59] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[02:23:59] [Server thread/INFO]: Preparing spawn area: 100%
+[02:23:59] [Server thread/INFO]: Prepared spawn area in 3 ms
+[02:23:59] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[02:23:59] [Server thread/INFO]: Preparing spawn area: 100%
+[02:23:59] [Server thread/INFO]: Prepared spawn area in 1 ms
+[02:23:59] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[02:23:59] [Server thread/INFO]: Prepared spawn area in 1 ms
+[02:23:59] [Server thread/INFO]: Done preparing level "world" (0.534s)
+[02:23:59] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[02:23:59] [Server thread/INFO]: [CountEssentials] Enabling CountEssentials v1.0
+[02:23:59] [Server thread/INFO]: [CountEssentials] Memuat 55 harga jual.
+[02:23:59] [Server thread/INFO]: [CountEssentials] Terdaftar sebagai provider economy Vault.
+[02:23:59] [Server thread/INFO]: [CountEssentials] CountEssentials enabled.
+[02:23:59] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.3-SNAPSHOT
+[02:24:01] [Server thread/INFO]: [DonutShop] Enabling DonutShop v1.8
+[02:24:01] [Server thread/INFO]: 
+[02:24:01] [Server thread/INFO]: $$\   $$\                              $$\            
+[02:24:01] [Server thread/INFO]: $$ |  $$ |                             \__|           
+[02:24:01] [Server thread/INFO]: $$ |  $$ |$$\   $$\ $$$$$$$$\ $$$$$$\  $$\            
+[02:24:01] [Server thread/INFO]: $$$$$$$$ |$$ |  $$ |\____$$  |\____$$\ $$ |           
+[02:24:01] [Server thread/INFO]: $$  __$$ |$$ |  $$ |  $$$$ _/ $$$$$$$ |$$ |           
+[02:24:01] [Server thread/INFO]: $$ |  $$ |$$ |  $$ | $$  _/  $$  __$$ |$$ |           
+[02:24:01] [Server thread/INFO]: $$ |  $$ |\$$$$$$  |$$$$$$$$\\$$$$$$$ |$$ |           
+[02:24:01] [Server thread/INFO]: \__|  \__| \______/ \________|\_______|\__|           
+[02:24:01] [Server thread/INFO]:                                                  
+[02:24:01] [Server thread/INFO]:  $$$$$$\    $$\                     $$\ $$\           
+[02:24:01] [Server thread/INFO]: $$  __$$\   $$ |                    $$ |\__|          
+[02:24:01] [Server thread/INFO]: $$ /  \__|$$$$$$\   $$\   $$\  $$$$$$$ |$$\  $$$$$$\  
+[02:24:01] [Server thread/INFO]: \$$$$$$\  \_$$  _|  $$ |  $$ |$$  __$$ |$$ |$$  __$$\ 
+[02:24:01] [Server thread/INFO]:  \____$$\   $$ |    $$ |  $$ |$$ /  $$ |$$ |$$ /  $$ |
+[02:24:01] [Server thread/INFO]: $$\   $$ |  $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |$$ |  $$ |
+[02:24:01] [Server thread/INFO]: \$$$$$$  |  \$$$$  |\$$$$$$  |\$$$$$$$ |$$ |\$$$$$$  |
+[02:24:01] [Server thread/INFO]:  \______/    \____/  \______/  \_______|\__| \______/
+[02:24:01] [Server thread/INFO]: 
+[02:24:01] [Server thread/INFO]:  ╔══════════════════════════════════════════╗
+[02:24:01] [Server thread/INFO]:  ║          LICENSE ACTIVATED              ║
+[02:24:01] [Server thread/INFO]:  ╠══════════════════════════════════════════╣
+[02:24:01] [Server thread/INFO]:  ║ Key: F698-TDQI-H3XE-ISKD                      ║
+[02:24:01] [Server thread/INFO]:  ║ Status: VALID                        ║
+[02:24:01] [Server thread/INFO]:  ╚══════════════════════════════════════════╝
+[02:24:01] [Server thread/INFO]:             Made By HuzaiDev
+[02:24:01] [Server thread/INFO]: 
+[02:24:01] [Server thread/INFO]: [DonutShop] DonutShop v1.8 has been enabled!
+[02:24:01] [Server thread/INFO]: [spark] Starting background profiler...
+[02:24:01] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[02:24:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:24:01] [Server thread/INFO]: [Geyser-Spigot] 
+[02:24:01] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.3-b1245 (git-master-2808f7d)
+[02:24:01] [Server thread/INFO]: [Geyser-Spigot] 
+[02:24:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:24:02] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[02:24:02] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[02:24:02] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[02:24:04] [pool-11-thread-1/WARN]: [floodgate] 
+**********************************
+* You specified an empty prefix in your Floodgate config for Bedrock players!
+* Should a Java player join and a Bedrock player join with the same username, unwanted results and conflicts will happen!
+* We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
+**********************************
+[02:24:04] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[02:24:05] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[02:24:05] [Server thread/INFO]: [Geyser-Spigot] Done (3.84s)! Run /geyser help for help!
+[02:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:24:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:24:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:24:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:24:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:24:06] [Server thread/INFO]: Running delayed init tasks
+[02:24:06] [Server thread/INFO]: Done (18.517s)! For help, type "help"
+[02:24:06] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:24:06] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
+[02:26:15] [User Authenticator #0/INFO]: UUID of player leluhurcy is 3e1a232e-bfee-4cd2-be29-7cc50f467b2e
+[02:26:16] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Zakk9857 (2193)
+[02:26:16] [localSession-7-2/INFO]: [Geyser-Spigot] Zakk9857 (logged in as: Zakk9857) has connected to the Java server
+[02:26:20] [Server thread/INFO]: [DonutShop] Player Zakk9857 assigned IP: 104.142.238.142
+[02:26:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zakk9857 joined (UUID: 00000000-0000-0000-0009-01f6a0daa89b)
+[02:26:20] [Server thread/INFO]: Zakk9857 joined the game
+[02:26:20] [Server thread/INFO]: Zakk9857[/127.27.152.109:0] logged in with entity id 13 at ([minecraft:overworld]-2.5, 70.0, 3.5)
+[02:26:20] [Server thread/INFO]: [DonutShop] Player leluhurcy assigned IP: 129.1.59.181
+[02:26:20] [Server thread/INFO]: leluhurcy joined the game
+[02:26:20] [Server thread/INFO]: leluhurcy[/127.0.0.1:64660] logged in with entity id 17 at ([minecraft:overworld]-2.5, 70.0, 2.5)
+[02:27:18] [Server thread/INFO]: Zakk9857 has made the advancement [Stone Age]
+[02:27:36] [Server thread/INFO]: leluhurcy has made the advancement [Stone Age]
+[02:28:01] [Server thread/INFO]: leluhurcy has made the advancement [Getting an Upgrade]
+[02:28:32] [Server thread/INFO]: Zakk9857 issued server command: /tpa leluhurcy
+[02:28:38] [Server thread/INFO]: leluhurcy issued server command: /tpaccept
+[02:28:59] [Server thread/INFO]: Zakk9857 has made the advancement [Getting an Upgrade]
+[02:30:52] [Server thread/INFO]: leluhurcy issued server command: /sell
+[02:31:16] [Server thread/INFO]: leluhurcy issued server command: /sell
+[02:31:30] [Server thread/INFO]: Zakk9857 issued server command: /sell
+[02:32:17] [Server thread/INFO]: Zakk9857 has made the advancement [Monster Hunter]
+[02:34:26] [Server thread/INFO]: leluhurcy has made the advancement [Monster Hunter]
+[02:37:33] [Server thread/INFO]: leluhurcy has made the advancement [Acquire Hardware]
+[02:38:54] [Server thread/INFO]: Zakk9857 has made the advancement [Acquire Hardware]
+[02:40:02] [Server thread/INFO]: Zakk9857 has made the advancement [Isn't It Iron Pick]
+[02:44:30] [Server thread/INFO]: Zakk9857 has made the advancement [Diamonds!]
+[02:45:05] [Server thread/INFO]: Zakk9857 issued server command: /tpa leluhurcy
+[02:45:07] [Server thread/INFO]: leluhurcy issued server command: /tpaccept
+[02:49:32] [Server thread/INFO]: leluhurcy issued server command: /sell
+[02:49:45] [Server thread/INFO]: leluhurcy issued server command: /shop
+[02:50:01] [Server thread/INFO]: leluhurcy issued server command: /shop
+[02:53:30] [Server thread/INFO]: leluhurcy has made the advancement [Isn't It Iron Pick]
+[02:54:32] [Server thread/INFO]: Zakk9857 issued server command: /tpa leluhurcy
+[02:54:34] [Server thread/INFO]: leluhurcy issued server command: /tpaccept
+[02:58:31] [Server thread/INFO]: leluhurcy has made the advancement [Diamonds!]
+[03:02:01] [Server thread/INFO]: Zakk9857 issued server command: /tpa leluhurcy
+[03:02:03] [Server thread/INFO]: leluhurcy issued server command: /tpaccept
+[03:06:45] [Server thread/INFO]: leluhurcy issued server command: /pay Zakk9857 2
+[03:09:25] [Server thread/INFO]: Zakk9857 has made the advancement [Sweet Dreams]
+[03:12:27] [Server thread/INFO]: leluhurcy has made the advancement [Sweet Dreams]
+[03:13:39] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Zakk9857 has disconnected from the Java server because of §rBedrock client disconnected
+[03:13:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zakk9857 disconnected
+[03:13:39] [Server thread/INFO]: Zakk9857 lost connection: Disconnected
+[03:13:39] [Server thread/INFO]: Zakk9857 left the game
+[03:14:02] [Server thread/INFO]: Stopping server
+[03:14:02] [Server thread/INFO]: [DonutShop] Disabling DonutShop v1.8
+[03:14:02] [Server thread/INFO]: [DonutShop] DonutShop v1.8 has been disabled!
+[03:14:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.11.3-SNAPSHOT
+[03:14:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:14:02] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:14:02] [Server thread/INFO]: [CountEssentials] Disabling CountEssentials v1.0
+[03:14:02] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[03:14:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[03:14:02] [Server thread/INFO]: Saving players
+[03:14:02] [Server thread/INFO]: leluhurcy lost connection: Disconnected
+[03:14:02] [Server thread/INFO]: leluhurcy left the game
+[03:14:02] [Server thread/INFO]: Saving worlds
+[03:14:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:14:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[03:14:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[03:14:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[03:14:02] [WebSocketConnectReadThread-130/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Saved 719 block chunks, 285 entity chunks, 7 poi chunks in world 'minecraft:overworld' in 0.51s
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[03:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[03:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[03:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[03:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:14:03] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:14:03] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:14:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:14:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

@@ -1,0 +1,92 @@
+# DonutShop Configuration File
+
+# GUI Titles
+gui:
+  main-shop-title: "ѕʜᴏᴘ"
+  end-shop-title: "ѕʜᴏᴘ - ᴇɴᴅ"
+  nether-shop-title: "ѕʜᴏᴘ - ɴᴇᴛʜᴇʀ"
+  gear-shop-title: "ѕʜᴏᴘ - ɢᴇᴀʀ"
+  food-shop-title: "ѕʜᴏᴘ - ꜰᴏᴏᴅ"
+  shard-shop-title: "ѕʜᴏᴘ - ꜱʜᴀʀᴅ"
+
+# Text Notifications
+messages:
+  not-enough-money: "&cYou don't have enough money."
+  inventory-full: "&cYour inventory is full."
+
+# Sound Settings
+sounds:
+  purchase-successful: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  purchase-successful-volume: 0.5
+  purchase-unsuccessful: "ENTITY_VILLAGER_NO"
+  purchase-unsuccessful-volume: 0.5
+  click: "UI_BUTTON_CLICK"
+  click-volume: 0.5
+
+# Item Prices
+prices:
+  # End Category
+  enderchest: 2500
+  end-enderpearl: 75
+  endstone: 8
+  dragonbreath: 1000
+  endrod: 100
+  chorusfruit: 10
+  poppedchorusfruit: 15
+  shulkershell: 350
+  shulkerbox: 800
+  
+  # Nether Category
+  blazerod: 150
+  netherwart: 15
+  glowstonedust: 15
+  magmacream: 15
+  ghasttear: 350
+  quartz: 15
+  soulsand: 50
+  magmablock: 35
+  cryingobsidian: 150
+  
+  # Gear Category
+  obsidian: 100
+  endcrystal: 350
+  respawnanchor: 1000
+  glowstone: 100
+  totemofundying: 1250
+  gear-enderpearl: 75
+  gear-goldenapple: 250
+  bottleoenchanting: 100
+  arrow: 250
+  
+  # Food Category
+  potato: 75
+  sweetberries: 50
+  melonslice: 10
+  carrot: 65
+  apple: 25
+  cookedchicken: 30
+  steak: 35
+  goldencarrot: 50
+  food-goldenapple: 250
+
+# Shard Shop Configuration
+shard-shop:
+  # Prices for items in the shard shop
+  prices:
+    # Keys
+    common-key: 200
+    prime-key: 1500
+    gold-key: 1500
+    amethyst-key: 4000
+    crimson-key: 2000
+    
+    # Spawners
+    pig-spawner: 250
+    cow-spawner: 350
+    zombie-spawner: 400
+    spider-spawner: 750
+    skeleton-spawner: 500
+    creeper-spawner: 625
+    zombified-piglin-spawner: 750
+    blaze-spawner: 1000
+    iron-golem-spawner: 1500

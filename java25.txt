@@ -1,0 +1,2 @@
+$env:PATH += ";C:\Program Files\Eclipse Adoptium\jdk-25.0.4.101-hotspot\bin"
+java -jar server.jar --nogui
